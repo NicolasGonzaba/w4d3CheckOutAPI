@@ -61,3 +61,12 @@ toggles IsCheckedOut OR accepts a body like `{ "isCheckedOut": true }`
 ## 4. Service Layer (Core of the Evaluation Practice)
 > Create two services:
 
+Nicolas Gonzaba
+
+Date Revised: Febuary 2 2026
+
+IT Checkout App API
+
+I made an API that simulates a backend for an IT lab where students can check out devices using all 4 CRUD functions. It is split across two services, one for students and one for devices, both of which also use an interface.
+
+Peer Review:
