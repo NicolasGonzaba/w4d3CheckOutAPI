@@ -1,0 +1,6 @@
+@w4d3CheckOutAPI_HostAddress = http://localhost:5275
+
+GET {{w4d3CheckOutAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
