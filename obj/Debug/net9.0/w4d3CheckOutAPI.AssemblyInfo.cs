@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("w4d3CheckOutAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1053d748ca6a8eb0505dd5fd8e9f7818e458edaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("w4d3CheckOutAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("w4d3CheckOutAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
